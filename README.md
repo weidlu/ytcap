@@ -32,6 +32,12 @@ Fetch a video's metadata and transcript:
 node dist/src/index.js fetch --url "https://www.youtube.com/watch?v=dQw4w9WgXcQ" --lang en --format json
 ```
 
+Global install from npm:
+
+```bash
+npm install -g @illidian/ytcap --registry https://registry.npmjs.org/
+```
+
 The command writes output under `youtube-output/<video-id>/`:
 
 - `metadata.json`

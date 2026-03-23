@@ -2,3 +2,4 @@ node_modules/
 dist/
 youtube-output/
 .env
+.npmrc

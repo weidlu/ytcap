@@ -1,5 +1,5 @@
 {
-  "name": "ytcap",
+  "name": "@illidian/ytcap",
   "version": "0.1.0",
   "description": "CLI for fetching YouTube video metadata and transcripts",
   "license": "MIT",
